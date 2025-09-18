@@ -85,7 +85,7 @@ curio guided-setup
 
 Once the migration is complete, you can shut down all of your workers and miner processes. You can start `curio` process to replace them with correct [configuration layer](configuration/#configuration-layers).
 
-If you entered non-default in step 3 then please export the relevant details in your `~/.bashrc` file as Curio command needs access to the Database. This step is different from the \
+If you entered non-default in step 3 then please export the relevant details in your `~/.bashrc` file as Curio command needs access to the Database.
 
 
 | Env Variable        | UseCase                   |
